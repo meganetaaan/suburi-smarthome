@@ -1,0 +1,16 @@
+{
+  "name": "broadlinkjs-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broadlinkjs-rm-cli": "0.0.1",
+    "firebase": "^4.8.1"
+  }
+}
